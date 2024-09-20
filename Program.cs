@@ -54,7 +54,8 @@ class Program
 
     static void Main(string[] args)
     {
-        Console.OutputEncoding = Encoding.UTF8;
+        //using System.Text;
+        //Console.OutputEncoding = Encoding.UTF8;
 
         try
         {
